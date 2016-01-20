@@ -1,7 +1,7 @@
 # Horseshoe
 A simple strategy game made using Cocos2d-x-3.7.1. The goal is to move your pieces in a position such that the opponent does not have any moves available.
 
-The game is available on the [Play Store](https://play.google.com/store/apps/details?id=com.yetanothergamedev.horseshoe).
+The game is available on [Google Play](https://play.google.com/store/apps/details?id=com.yetanothergamedev.horseshoe).
 
 
 ## Installation
